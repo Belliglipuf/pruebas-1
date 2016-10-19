@@ -4,6 +4,7 @@ pepis
 soja
 lechuga
 tomaton
+maiz
 
 
 
